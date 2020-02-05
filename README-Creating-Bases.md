@@ -12,6 +12,7 @@ When creating base images for SecGen, follow [guidelines on creating Vagrant bas
 - vim
 - psmisc
 - sudo
+- cloud-init (installed but disabled)
 
 Install VM guest tools software, to enable copy-paste between VMs, graphics, etc.
 
